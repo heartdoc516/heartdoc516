@@ -9,7 +9,6 @@ I have been learning to code for close to a year. I have found a deep interest, 
 * 🌍  I'm based in Quebec
 * 🖥️  See my portfolio at [francisplante.dev](https://francisplante.dev)
 * ✉️  You can contact me at [francis.plante.855@gmail.com](mailto:francis.plante.855@gmail.com)
-* 🚀  I'm currently working on [Kanban Task Manager](http://https://kanban-task-manager-beta.vercel.app/)
 * 🧠  I'm learning Next.js, AWS, GraphQl
 * 🤝  I'm open to collaborating on pretty much anything web related
 * ⚡  also, they say you shouldn't eat raw cookie dough
