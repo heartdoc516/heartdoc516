@@ -7,7 +7,7 @@ Learner. Thinker. Developper.
 I have been learning to code for close to a year. I have found a deep interest, and a passion for learning and I have gotten quite good at it (learning I mean, for coding, i'm getting there real quick;))
 
 * 🌍  I'm based in Quebec
-* 🖥️  See my portfolio at [fpdev](https://francisplante.dev)
+* 🖥️  See my portfolio at [francisplante.dev](https://francisplante.dev)
 * ✉️  You can contact me at [francis.plante.855@gmail.com](mailto:francis.plante.855@gmail.com)
 * 🚀  I'm currently working on [Kanban Task Manager](http://https://kanban-task-manager-beta.vercel.app/)
 * 🧠  I'm learning Next.js, AWS, GraphQl
