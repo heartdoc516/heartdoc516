@@ -1,7 +1,7 @@
 Hi 👋 My name is Francis
 ========================
 
-Learner. Thinker. Developper.
+Learner. Thinker. Developer.
 -----------------------------
 
 I have been learning to code for close to a year. I have found a deep interest, and a passion for learning and I have gotten quite good at it (learning I mean, for coding, i'm getting there real quick;))
